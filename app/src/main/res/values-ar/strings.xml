@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">واتساب</string>
+    <string name="introInfoText">شكراً لتثبيت التطبيق!\nقم بربط هاتفك تماماً كما تفعل على جهاز الكمبيوتر عبر مسح رمز QR.\nلقفل أو فتح لوحة المفاتيح، استخدم زر لوحة المفاتيح في الأعلى.\nسيتم حفظ إعداداتك تلقائياً.</string>
+    <string name="navigation_drawer_open">فتح القائمة الجانبية</string>
+    <string name="navigation_drawer_close">إغلاق القائمة الجانبية</string>
+    <string name="sidebar_button_logout">تسجيل الخروج</string>
+    <string name="sidebar_button_reload">إعادة تحميل</string>
+    <string name="sidebar_button_toggle_appbar_visibility">إظهار/إخفاء الشريط العلوي</string>
+    <string name="sidebar_button_toggle_dark_mode">الوضع الداكن</string>
+    <string name="sidebar_button_about">حول التطبيق</string>
+    <string name="sidebar_title_settings">الإعدادات</string>
+    <string name="appbar_button_scroll_left">تمرير لليسار</string>
+    <string name="appbar_title_scroll_right">تمرير لليمين</string>
+    <string name="appbar_button_toggle_keyboard">تبديل لوحة المفاتيح</string>
+    <string name="toast_saved_to_downloads_folder">تم الحفظ في مجلد التنزيلات</string>
+    <string name="notification_title_tap_to_open">اضغط للفتح</string>
+    <string name="notification_text_saved_as">تم الحفظ باسم %s</string>
+    <string name="navigation_drawer_close_confirm">اضغط رجوع مرة أخرى للخروج</string>
+    <string name="reload_required">يجب إعادة تحميل واتساب ويب لمتابعة التشغيل</string>
+    <string name="permission_denied_download">لم يتم منح الإذن، لا يمكن التنزيل</string>
+    <string name="unblock_keyboard">تم إلغاء قفل لوحة المفاتيح...</string>
+    <string name="dismiss">تجاهل</string>
+    <string name="block_keyboard">تم قفل لوحة المفاتيح...</string>
+    <string name="logging_out">جارٍ تسجيل الخروج...</string>
+    <string name="logout_title">هل تريد تسجيل الخروج؟</string>
+    <string name="logout_message">عند تسجيل الخروج، ستحتاج لمسح رمز QR مرة أخرى بهاتفك لربط واتساب ويب.</string>
+    <string name="yes_button">نعم</string>
+    <string name="no_button">لا</string>
+    <string name="appbar_hiding">جارٍ الإخفاء... اسحب لليمين لإظهار الشريط</string>
+    <string name="reloading">جارٍ إعادة التحميل...</string>
+    <string name="ok_button">موافق</string>
+    <string name="permission_denied_cam">لم يتم منح الإذن، لا يمكن استخدام</string>
+    <string name="camera">الكاميرا</string>
+    <string name="microphone">الميكروفون</string>
+    <string name="permission_denied_video">لم يتم منح الإذن، لا يمكن استخدام الفيديو.</string>
+    <string name="sidebar_button_switch_user_agent">تبديل وكيل المتصفح</string>
+    <string name="dialog_title_choose_browser">اختر وكيل المتصفح (Browser Agent)</string>
+    <string name="browser_chrome">جوجل كروم (Chrome Desktop)</string>
+    <string name="browser_firefox">موزيلا فايرفوكس (Firefox Desktop)</string>
+    <string name="browser_edge">مايكروسوفت إيدج (Edge Desktop)</string>
+</resources>

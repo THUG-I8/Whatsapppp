@@ -1,0 +1,5 @@
+/build/*
+!/build/outputs/
+!/build/outputs/apk/
+!/build/outputs/apk/**
+!*.apk

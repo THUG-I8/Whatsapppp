@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp",
+  "description": "WhatsApp Web client optimized for Android with responsive mobile interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
